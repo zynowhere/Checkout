@@ -1,22 +1,7 @@
 <div align="center"> 
-<h1 align="center">签到盒</h1>
+<h1 align="center">Checkout</h1>
  
-[![GitHub stars](https://img.shields.io/github/stars/wenmoux/checkbox?style=flat-square)](https://github.com/wenmoux/checkbox)
-[![GitHub forks](https://img.shields.io/github/forks/wenmoux/checkbox?style=flat-square)](https://github.com/wenmoux/checkbox/network)
-[![GitHub issues](https://img.shields.io/github/issues/wenmoux/checkbox?style=flat-square)](https://github.com/wenmoux/checkbox/issues)
-![GitHub issues](https://img.shields.io/github/languages/code-size/wenmoux/checkbox?style=flat-square)
-</div>  
 
-# 简介
-一些常用网站以及app的签到,有用的话点个star⭐️呗  
-[点这里加TG群](https://t.me/xiubuye)  
-[dorajs交流群(懒得跑js的)](https://jq.qq.com/?_wv=1027&k=zVvFzMRX)  
-[checkbox交流群](https://jq.qq.com/?_wv=1027&k=u4nTAo4M)  
-需要什么签到可以去提[issues](https://github.com/wenmoux/checkbox/issues),也欢迎PR  
-关于代码为什么这么烂:  
-开始写的时候就不知道js是啥，也不了解编程，全靠百度，以及抄大佬的代码
-# **<font color="red">未经允许,禁止搬运</font>**
- ![运行结果](https://cdn.jsdelivr.net/gh/Wenmoux/wenpic/other/1367573175823623.png)
 # 签到列表
 <details>
 <summary>查看签到列表</summary>
@@ -84,7 +69,7 @@
 
 </details>
  
-# 使用方法 (懂得自然懂 bushi  
+# 使用方法   
 [教程：关于如何使用termux运行签到盒那件事](https://blog.1oner.cn/posts/termux-checkbox/)  
 termux可以使用crontab设置定时任务  
 写法参见crontab.list
@@ -213,7 +198,6 @@ ql repo https://github.com/Wenmoux/checkbox.git "index|install" "node_modules|ic
 [@lepecoder](https://github.com/lepecoder/checkin)  
 [@zsakvo](https://github.com/zsakvo)  
 
-# 支持一下
-  ![支持一下](https://cdn.jsdelivr.net/gh/Wenmoux/wenpic/qrcode/wx_rewardqrcode.png)
+
 # 免责申明
 该项目仅供学习使用，严禁用于商业用途，由此造成的一切后果，本人概不负责。
